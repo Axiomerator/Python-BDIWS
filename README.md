@@ -1,5 +1,6 @@
 # Python BDIWS
 一款基于Python的**图像数字盲水印处理系统**。
+
 A **Blind Digital Image Watermarking System** base on Python.
 
 ## 图像数字盲水印是什么？
