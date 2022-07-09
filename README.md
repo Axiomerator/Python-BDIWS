@@ -18,9 +18,8 @@ A **Blind Digital Image Watermarking System** base on Python.
 
 所谓对水印的攻击，是指破坏水印，包括涂抹，剪切，放缩，旋转，压缩，加噪，滤波等。数字盲水印不仅仅要敏捷性高，也要防御性强。数字盲水印的隐匿性和鲁棒性（抗攻击性）是互斥的。
 
-图像数字盲水印的原理可以用如下的流程图来概括：
+## Python BDIWS 是什么原理？
+程序对图像进行的处理过程的代码源自 guofei9987 老师的 [blind_watermark 项目](https://github.com/guofei9987/blind_watermark)，进行了一定程度的调整与删减。
 
-![](https://s3.bmp.ovh/imgs/2022/07/05/c60b9f28e4613af2.jpg)
-
-## 如何使用 Python BDIWS ？
-这部分老子还没做，急什么，你又没给钱
+## 如何使用 Python BDIWS ？ [⚠UNFINISHED⚠]
+Python BDIWS 将数字盲水印处理的过程通过简明易懂的GUI实现，降低了使用成本，提高了用户体验。
