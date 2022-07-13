@@ -24,6 +24,6 @@ A **Blind Digital Image Watermarking System** base on Python.
 ## 如何使用 Python BDIWS ？ [⚠UNFINISHED⚠]
 Python BDIWS 将数字盲水印处理的过程通过简明易懂的GUI实现，降低了使用成本，提高了用户体验。
 
-用户可以根据GUI的提示方便地进行数字盲水印的导入和提取的操作。
+用户可以根据GUI的提示方便地进行数字盲水印（图像和字符串皆可）的导入和提取的操作。
 
-目前软件已经实现了部分功能，并拥有了可实现这些功能的GUI界面，软件版本号为 Alpha 0.1 。
+目前软件已经实现了四种基本功能，并拥有了可靠的GUI界面和错误处理机制，软件版本号为 Alpha 0.3 。
